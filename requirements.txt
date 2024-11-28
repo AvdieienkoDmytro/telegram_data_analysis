@@ -1,0 +1,10 @@
+notebook==7.0.6
+pandas==1.5.1
+scipy==1.7.3
+numpy==1.21.6
+matplotlib==3.5.1
+seaborn==0.11.2
+pymorphy2==0.9.1
+tqdm==4.64.1
+pymorphy3[uk]>=1.1.0
+plotly
