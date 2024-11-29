@@ -111,7 +111,7 @@ This project is licensed under the GPL-3.0 License — see the [LICENSE](LICENSE
 
 ## Acknowledgments
 
-- NaUKMA Data Analysis course
+- NaUKMA Computational Social Science course
 - Course instructor: [Andrew Kurochkin](https://github.com/SanGreel)
 - Special thanks to contributors of the [NaUKMA jargon dictionary](https://docs.google.com/document/d/1xzDY1cX7vtole9RAJ4X8dlbacKXXjGwOgfZb1o5Wf-Y/edit?tab=t.0)
 
